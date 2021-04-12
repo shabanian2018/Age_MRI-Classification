@@ -3,14 +3,14 @@
 
 All images are NIfTI
 
-3D CNN architecture for early fusion
+###3D CNN architecture for early fusion
 ![](images/3D_fusion_model.jpg)
 
 
 
-Accuracy/loss in 2D fusion CNN, averaged for 5 folds
+###Accuracy/loss in 2D fusion CNN, averaged for 5 folds
 ![](images/fusion_loss_accuracy_plots.jpg)
 
 
-Confusion matrices for (a) 2D, (b) 3D fusion CNN
+###Confusion matrices for (a) 2D, (b) 3D fusion CNN
 ![](images/2D_3D_fusion_kfold.png)
