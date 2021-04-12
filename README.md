@@ -12,4 +12,4 @@ All images are NIfTI
 
 
 #Confusion matrices for (a) 2D, (b) 3D fusion CNN
-![](images/2D_3D_fusion_kfold.jpg)
+![](images/2D_3D_fusion_kfold.png)
