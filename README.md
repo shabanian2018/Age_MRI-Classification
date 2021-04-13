@@ -5,7 +5,7 @@ All images are NIfTI
 
 3D CNN architecture for early fusion
 ![](images/3D_fusion_model.jpg)
-<img src="images/3D_fusion_model.jpg"> width=400>
+<img src="images/3D_fusion_model.jpg"> width=200>
 
 
 Accuracy/loss in 2D fusion CNN, averaged for 5 folds
