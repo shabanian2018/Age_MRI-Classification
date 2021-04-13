@@ -9,7 +9,7 @@ All images are NIfTI
 
 
 Accuracy/loss in 2D fusion CNN, averaged for 5 folds
-![](images/2Dfusion_plots.png)
+![](images/2Dfusion_plots.jpg)
 
 
 Confusion matrices for (a) 2D, (b) 3D fusion CNN
