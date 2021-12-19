@@ -1,4 +1,4 @@
-# 2D-CNN-and-3D-CNN_MRI-Classification
+# 2D-CNN & 2.5D-CNN & 3D-CNN_MRI-Classification
  2D CNN and 3D CNN models for MRI multi-classification using 5fold cross validation.
 
 All images are NIfTI
