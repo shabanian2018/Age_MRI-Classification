@@ -1,7 +1,8 @@
 # 2D-CNN & 2.5D-CNN & 3D-CNN_MRI-Classification
- 2D CNN and 3D CNN models for MRI multi-classification using 5fold cross validation.
+2D CNN and 3D CNN models for MRI multi-classification using 5fold cross validation.
+On the task of classifying infants into age groups based on T1w, T2w, and PD images, several architectures of 2D and 3D CNN were explored and compared to Transfer Learning using ResNet50 and Inception, among others.
 
-All images are NIfTI
+The dataset consists of 89 patients, out of which several had more than one image taken in one or more ages. All images are NIfTI
 
 3D CNN architecture for early fusion
 ![](images/3D_fusion_model.jpg)
