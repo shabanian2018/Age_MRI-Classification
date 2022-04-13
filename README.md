@@ -4,6 +4,11 @@ On the task of classifying infants into age groups based on T1w, T2w, and PD ima
 
 The dataset consists of 89 patients, out of which several had more than one image taken in one or more ages. All images are NIfTI
 
+# Please cite to this paper:
+## SPIE 2022 Medical Imaging
+Shabanian, Mahdieh, Markus Wenzel, and John P. DeVincenzo. "Infant Brain Age Classification: 2D CNN Outperforms 3D CNN in Small Dataset." arXiv preprint arXiv:2112.13811 (2021).
+
+
 3D CNN architecture for early fusion
 ![](images/3D_fusion_model.jpg)
 
